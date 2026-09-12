@@ -239,13 +239,7 @@ Opens the interactive dashboard, typically at `http://localhost:8501`.
 ## Ethics & Privacy
 This project uses a public, job-posting-level dataset for educational purposes. It does not analyze individual applicants or personal profiles — all analysis is performed at the level of postings, companies, locations, skills, and salary categories.
 
-## References
-* Kaggle. *LinkedIn Job Postings (2023–2024) Dataset*. https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
-* Apache Spark Documentation — used for PySpark processing and Spark MLlib.
-* Streamlit Documentation — used for the interactive dashboard.
-* Plotly Documentation — used for interactive charts and dashboard visualizations.
-
 ## Authors
-Aryam Monshi · Rawan Alharthi · Nora Alshibi · Taghreed Alzahrani
+Rawan Mansour
 
 This was a team project.
