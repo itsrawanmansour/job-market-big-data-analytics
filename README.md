@@ -236,9 +236,6 @@ Opens the interactive dashboard, typically at `http://localhost:8501`.
 * The dataset reflects LinkedIn postings only and may not represent the full job market (other platforms may show different patterns).
 * Skill categories (e.g. "Information Technology", "Management") are broad; they don't capture granular technical skills like Python, SQL, or AWS individually.
 
-## Ethics & Privacy
-This project uses a public, job-posting-level dataset for educational purposes. It does not analyze individual applicants or personal profiles — all analysis is performed at the level of postings, companies, locations, skills, and salary categories.
-
 ## Authors
 Rawan Mansour
 
