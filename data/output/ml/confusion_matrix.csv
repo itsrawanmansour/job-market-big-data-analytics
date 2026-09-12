@@ -1,0 +1,10 @@
+﻿actual_salary_level,predicted_salary_level,count
+High,High,1760
+High,Low,194
+High,Medium,490
+Low,High,223
+Low,Low,1433
+Low,Medium,560
+Medium,High,898
+Medium,Low,535
+Medium,Medium,871

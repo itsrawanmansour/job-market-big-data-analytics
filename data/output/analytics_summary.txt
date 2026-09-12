@@ -1,0 +1,155 @@
+ANALYTICS AND INSIGHTS SUMMARY
+==================================================
+
+0. SALARY FILTER SUMMARY
+Salary records before filtering: 36,073
+Salary records after filtering: 35,560
+Removed invalid or outlier salary records: 513
+Minimum accepted salary: 10,000
+Maximum accepted salary: 500,000
+
+1. TOP 10 JOB TITLES
+Sales Manager: 673
+Customer Service Representative: 375
+Project Manager: 359
+Administrative Assistant: 259
+Senior Accountant: 243
+Executive Assistant: 228
+Salesperson: 211
+Registered Nurse: 210
+Receptionist: 204
+Staff Accountant: 203
+
+2. TOP 10 COMPANIES
+Liberty Healthcare and Rehabilitation Services: 1,108
+The Job Network: 1,003
+J. Galt: 604
+TEKsystems: 529
+Lowe's Companies, Inc.: 527
+Ingersoll Rand: 517
+Capital One: 496
+Cogent Communications: 476
+Insight Global: 418
+Dice: 415
+
+3. TOP 10 LOCATIONS
+United States: 8,125
+New York, NY: 2,756
+Chicago, IL: 1,834
+Houston, TX: 1,762
+Dallas, TX: 1,383
+Atlanta, GA: 1,363
+Boston, MA: 1,176
+Austin, TX: 1,083
+Charlotte, NC: 1,075
+Phoenix, AZ: 1,059
+
+4. WORK TYPE DISTRIBUTION
+Full-time: 98,814
+Contract: 12,117
+Part-time: 9,696
+Temporary: 1,190
+Internship: 983
+Volunteer: 562
+Other: 487
+
+5. TOP 20 SKILLS
+Information Technology: 25,256
+Sales: 21,193
+Management: 20,385
+Manufacturing: 17,728
+Health Care Provider: 16,675
+Business Development: 13,304
+Engineering: 12,530
+Other: 12,314
+Finance: 8,011
+Marketing: 5,400
+Accounting/Auditing: 4,999
+Administrative: 4,787
+Customer Service: 4,167
+Project Management: 3,825
+Analyst: 3,775
+Research: 2,928
+Human Resources: 2,608
+Consulting: 2,241
+Legal: 2,229
+Education: 2,217
+
+6. TOP HIGH-SALARY SKILLS
+Information Technology: 3,882 jobs, average salary 154,655.72, median salary 145,000.00
+Engineering: 2,279 jobs, average salary 157,912.14, median salary 147,487.50
+Sales: 1,659 jobs, average salary 162,514.60, median salary 148,500.00
+Health Care Provider: 1,328 jobs, average salary 160,221.82, median salary 135,101.20
+Finance: 1,134 jobs, average salary 155,821.88, median salary 140,529.00
+Management: 1,083 jobs, average salary 152,666.73, median salary 140,000.00
+Business Development: 1,046 jobs, average salary 165,107.84, median salary 148,929.75
+Project Management: 819 jobs, average salary 147,546.25, median salary 137,500.00
+Accounting/Auditing: 776 jobs, average salary 151,426.84, median salary 137,500.00
+Manufacturing: 689 jobs, average salary 143,700.74, median salary 132,060.00
+
+7. TOP REMOTE JOB SKILLS
+Information Technology: 4,667
+Sales: 3,841
+Business Development: 2,702
+Engineering: 2,130
+Marketing: 1,170
+Finance: 1,001
+Other: 877
+Analyst: 874
+Management: 790
+Health Care Provider: 638
+
+8. TOP SALARY BY JOB TITLE
+Psychiatrist: average salary 343,512.93, median salary 354,897.00, jobs 7
+Patent Attorney: average salary 284,642.86, median salary 200,000.00, jobs 7
+Medical Director: average salary 250,000.00, median salary 225,000.00, jobs 6
+Labor And Employment Attorney: average salary 247,588.89, median salary 230,000.00, jobs 9
+Chief Financial Officer: average salary 247,500.00, median salary 250,000.00, jobs 19
+Family Physician: average salary 233,250.00, median salary 220,000.00, jobs 8
+Relief Veterinarian: average salary 227,413.33, median salary 268,320.00, jobs 6
+Vice President Finance: average salary 225,937.50, median salary 225,000.00, jobs 8
+Staff Software Engineer: average salary 218,768.93, median salary 210,550.00, jobs 7
+Chief Executive Officer: average salary 218,037.67, median salary 155,000.00, jobs 6
+
+9. TOP SALARY BY SKILL
+Product Management: average salary 145,857.46, median salary 142,500.00, jobs 471
+Legal: average salary 134,769.20, median salary 120,000.00, jobs 960
+Strategy/Planning: average salary 131,787.37, median salary 122,000.00, jobs 468
+Engineering: average salary 126,422.67, median salary 120,000.00, jobs 3,727
+Consulting: average salary 122,602.21, median salary 115,000.00, jobs 784
+Project Management: average salary 118,760.90, median salary 114,400.00, jobs 1,430
+Information Technology: average salary 116,457.45, median salary 112,500.00, jobs 7,090
+Science: average salary 115,131.43, median salary 93,600.00, jobs 363
+Research: average salary 110,826.57, median salary 93,600.00, jobs 921
+Finance: average salary 103,569.57, median salary 92,500.00, jobs 2,906
+
+10. TOP SALARY BY LOCATION
+San Mateo, CA: average salary 199,604.63, median salary 180,366.00, jobs 33
+Foster City, CA: average salary 178,323.03, median salary 159,937.50, jobs 44
+Ridgefield, CT: average salary 163,976.36, median salary 161,200.00, jobs 11
+Mountain View, CA: average salary 163,085.11, median salary 162,200.00, jobs 58
+Rahway, NJ: average salary 158,827.97, median salary 143,350.00, jobs 29
+San Francisco Bay Area: average salary 155,311.02, median salary 142,500.00, jobs 147
+Sunnyvale, CA: average salary 153,621.95, median salary 154,500.00, jobs 98
+Los Gatos, CA: average salary 149,047.88, median salary 72,800.00, jobs 16
+San Fernando, CA: average salary 147,193.12, median salary 128,267.60, jobs 10
+Palo Alto, CA: average salary 146,503.19, median salary 137,717.50, jobs 67
+
+11. SALARY LEVEL DISTRIBUTION
+Unknown: 87,776
+High: 12,484
+Medium: 12,021
+Low: 11,568
+
+12. REMOTE SALARY COMPARISON
+Remote: average salary 120,209.79, median salary 113,250.00, jobs 4,777
+Not Remote: average salary 91,887.58, median salary 77,677.60, jobs 30,783
+
+13. ENGAGEMENT SUMMARY
+Total Views: 1,785,765.0000
+Total Applies: 247,005.0000
+Average Views: 14.4189
+Average Applies: 1.9944
+Views-Applies Correlation: 0.5259
+
+Analytics outputs generated successfully.

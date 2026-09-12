@@ -1,0 +1,31 @@
+ PROCESSED STORAGE SUMMARY
+==================================================
+
+1. PROCESSED FILES
+cleaned_postings.parquet: D:\html_C\Aryam\Big Data Project\job_market_big_data\data\processed\cleaned_postings.parquet
+jobs_with_skills.parquet: D:\html_C\Aryam\Big Data Project\job_market_big_data\data\processed\jobs_with_skills.parquet
+job_skill_summary.parquet: D:\html_C\Aryam\Big Data Project\job_market_big_data\data\processed\job_skill_summary.parquet
+
+2. FILE RECORD COUNTS
+Rows in cleaned_postings.parquet: 123,849
+Rows in jobs_with_skills.parquet: 205,778
+Rows in job_skill_summary.parquet: 35
+
+3. DATA COVERAGE
+Unique jobs in cleaned_postings: 123,849
+Unique jobs in jobs_with_skills: 122,096
+Unique skills in jobs_with_skills: 35
+
+4. TOP 10 SKILLS FROM JOB SKILL SUMMARY
+Information Technology: 25,256 jobs
+Sales: 21,193 jobs
+Management: 20,385 jobs
+Manufacturing: 17,728 jobs
+Health Care Provider: 16,675 jobs
+Business Development: 13,304 jobs
+Engineering: 12,530 jobs
+Other: 12,314 jobs
+Finance: 8,011 jobs
+Marketing: 5,400 jobs
+
+Processed storage verification completed successfully.

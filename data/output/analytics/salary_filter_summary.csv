@@ -1,0 +1,6 @@
+﻿metric,value
+Salary records before filtering,36073
+Salary records after filtering,35560
+Removed invalid or outlier salary records,513
+Minimum accepted salary,10000
+Maximum accepted salary,500000

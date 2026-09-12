@@ -1,0 +1,56 @@
+PHASE 9 - MACHINE LEARNING SUMMARY
+==================================================
+
+1. MODEL OBJECTIVE
+Target variable: salary_level
+Classes: Low, Medium, High
+Algorithm: Random Forest Classifier
+Framework: Spark MLlib
+
+2. DATA USED FOR TRAINING
+Salary records used after filtering: 35,560
+Training records: 28,596
+Testing records: 6,964
+Accepted salary range: 10,000 to 500,000
+
+3. FEATURES USED
+title_group
+location_group
+work_type_final
+remote_status
+views
+applies
+experience_level_final
+skills_array
+
+4. LABEL ORDER USED BY MODEL
+0: High
+1: Medium
+2: Low
+
+5. MODEL PERFORMANCE
+Accuracy: 0.5836
+F1-score: 0.5767
+
+6. TRAINING SALARY LEVEL DISTRIBUTION
+High: 9,944
+Low: 8,935
+Medium: 9,717
+
+7. TESTING SALARY LEVEL DISTRIBUTION
+High: 2,444
+Low: 2,216
+Medium: 2,304
+
+8. CONFUSION MATRIX
+Actual High predicted as High: 1,760
+Actual High predicted as Low: 194
+Actual High predicted as Medium: 490
+Actual Low predicted as High: 223
+Actual Low predicted as Low: 1,433
+Actual Low predicted as Medium: 560
+Actual Medium predicted as High: 898
+Actual Medium predicted as Low: 535
+Actual Medium predicted as Medium: 871
+
+Machine learning stage completed successfully.

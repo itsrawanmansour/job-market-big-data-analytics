@@ -1,0 +1,102 @@
+PHASE 1 - DATASET UNDERSTANDING
+==================================================
+
+1. BASIC DATASET SIZE
+Number of rows in postings.csv: 123,849
+Number of columns loaded from postings.csv: 17
+Number of rows in job_skills.csv: 213,768
+Number of unique job_id in job_skills.csv: 126,807
+Number of rows in skills.csv: 35
+Number of unique skills in skills.csv: 35
+
+2. MAIN DATASET INFORMATION
+Number of unique companies: 24,428
+Number of unique locations: 8,526
+Number of unique job titles: 72,521
+
+3. SALARY AVAILABILITY
+Jobs with normalized_salary: 36,073
+Jobs without normalized_salary: 87,776
+Jobs with any salary value: 36,073
+Jobs without any salary value: 87,776
+
+4. WORK TYPE DISTRIBUTION
+Full-time: 98,814
+Contract: 12,117
+Part-time: 9,696
+Temporary: 1,190
+Internship: 983
+Volunteer: 562
+Other: 487
+
+5. REMOTE JOBS
+Remote jobs count: 15,246
+Non-remote / unknown jobs count: 108,603
+Remote jobs percentage: 12.31%
+
+6. MISSING VALUES IN IMPORTANT COLUMNS
+company_name: 1719
+title: 0
+description: 7
+location: 0
+views: 1689
+applies: 100529
+normalized_salary: 87776
+formatted_work_type: 0
+formatted_experience_level: 29409
+remote_allowed: 108603
+
+7. JOB-SKILL MAPPING COVERAGE
+Jobs in postings that have at least one skill: 122,096
+Jobs in postings without skills: 1,753
+Skill abbreviations in job_skills.csv: 35
+Skill abbreviations successfully mapped to skills.csv: 35
+Skill abbreviations missing from skills.csv: 0
+
+8. TOP 10 JOB TITLES
+Sales Manager: 673
+Customer Service Representative: 375
+Project Manager: 359
+Administrative Assistant: 259
+Senior Accountant: 243
+Executive Assistant: 228
+Salesperson: 211
+Registered Nurse: 210
+Receptionist: 204
+Staff Accountant: 203
+
+9. TOP 10 COMPANIES
+Liberty Healthcare and Rehabilitation Services: 1,108
+The Job Network: 1,003
+J. Galt: 604
+TEKsystems: 529
+Lowe's Companies, Inc.: 527
+Ingersoll Rand: 517
+Capital One: 496
+Cogent Communications: 476
+Insight Global: 418
+Dice: 415
+
+10. TOP 10 LOCATIONS
+United States: 8,125
+New York, NY: 2,756
+Chicago, IL: 1,834
+Houston, TX: 1,762
+Dallas, TX: 1,383
+Atlanta, GA: 1,363
+Boston, MA: 1,176
+Austin, TX: 1,083
+Charlotte, NC: 1,075
+Phoenix, AZ: 1,059
+
+11. TOP 10 SKILLS
+Information Technology: 26,137
+Sales: 22,475
+Management: 20,861
+Manufacturing: 18,185
+Health Care Provider: 17,369
+Business Development: 14,290
+Engineering: 13,009
+Other: 12,608
+Finance: 8,540
+Marketing: 5,525

@@ -1,0 +1,43 @@
+PYSPARK PROCESSING SUMMARY
+==================================================
+
+1. POSTINGS CLEANING
+Original postings count: 123,849
+Postings before duplicate removal: 123,849
+Postings after duplicate removal: 123,849
+Removed duplicate jobs: 0
+Final cleaned postings count: 123,849
+
+2. SALARY THRESHOLDS
+Salary percentile 33: 59750.0
+Salary percentile 66: 106000.0
+
+3. SALARY LEVEL DISTRIBUTION
+High: 12,484
+Low: 11,568
+Medium: 12,021
+Unknown: 87,776
+
+4. REMOTE STATUS DISTRIBUTION
+Not Remote: 108,603
+Remote: 15,246
+
+5. TOP WORK TYPES
+Full-time: 98,814
+Contract: 12,117
+Part-time: 9,696
+Temporary: 1,190
+Internship: 983
+Volunteer: 562
+Other: 487
+
+6. JOB-SKILL JOIN OUTPUT
+Jobs with skills table rows: 205,778
+Jobs with at least one mapped skill: 122,096
+Distinct mapped skills: 35
+
+7. OUTPUT FILES
+cleaned_postings.parquet: D:\job_market_big_data\data\processed\cleaned_postings.parquet
+jobs_with_skills.parquet: D:job_market_big_data\data\processed\jobs_with_skills.parquet
+
+PySpark processing completed successfully.

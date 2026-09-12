@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Large regenerated processed data (created by processing/spark_processing.py)
+data/processed/*.parquet
+
+# Main raw dataset file — too large for GitHub, download separately (see README)
+data/raw/postings.csv
+
+# Spark local metastore / temp files
+metastore_db/
+spark-warehouse/
+derby.log
